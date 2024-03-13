@@ -69,6 +69,7 @@ footer {
   justify-content: center;
   /* Add a Flexbox property to align the contents at their center. */
   align-content: center;
+  align-items: center;
   /* Add the Flexbox property flex-flow: row wrap; to allow the flex child items to wrap. */
   flex-flow: row wrap;
   width: 100%;
@@ -152,6 +153,7 @@ footer {
   justify-content: space-around;
   /* Add a Flexbox property to align the contents at their center. */
   align-content: center;
+  align-items: center;
 }
 
 .contact-wrapper {
